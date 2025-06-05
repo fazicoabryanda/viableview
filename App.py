@@ -935,7 +935,7 @@ elif selected_page == "Contact":
             return None # Return None jika file tidak ditemukan
 
     # Load foto profil
-    fazico_img_path = "kirito.jpg"
+    fazico_img_path = "pp.png"
     mira_img_path = "Mira-Widiastuti-2.png"
 
     fazico_base64 = get_base64(fazico_img_path)
