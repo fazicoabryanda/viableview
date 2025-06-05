@@ -958,8 +958,8 @@ elif selected_page == "Contact":
         st.markdown("""
         ## Fazico Rakcel Abryanda
         ##### Software Developer and AI Engineer
-        **Agricultural Engineering and Biosystems**
-        **Brawijaya University, Class of 2021**
+        **Agricultural Engineering and Biosystems,**
+        **Brawijaya University**
 
         Experienced in developing AI-driven solutions for agricultural applications.
         Passionate about leveraging technology to enhance agricultural productivity and sustainability.
